@@ -1,7 +1,4 @@
-issues
-======
-
-### Public collection of issues &amp; problems
+## Letsfix.net public collection of issues &amp; problems
 
 Folders represent communities.
 
