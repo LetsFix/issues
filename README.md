@@ -1,5 +1,5 @@
 ## Letsfix.net public collection of issues &amp; problems
 
-Folders represent communities.
+Communities = folders.
 
-Feel free to send pull requests.
+Send pull requests.
