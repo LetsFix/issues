@@ -1,3 +1,3 @@
 Problem: great pacific garbage patch
 
-@Jared @CameronBoemer
+@Jared @CameronBoemer @dsernst
