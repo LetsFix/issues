@@ -3,6 +3,6 @@ Separation
 Fundamental ideology that describes us self-interested, separated into us vs. them. Me vs. not-me.
 
 Relevant discussion:
-* *Sacred Economics* by Charles Eisenstein
+* [*Sacred Economics*](http://sacred-economics.com/) by Charles Eisenstein
 
--- Jared / Charlie
+@Jared, @Charlie, @dsernst
