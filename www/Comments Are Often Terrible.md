@@ -2,6 +2,8 @@ Why are internet comments so atrocious to read? Scum of the earth. Terrible bick
 
 See Youtube comments as prime example.
 
+@dsernst
+
 Possible solution:
 * Hellbanning trolls so they get bored (taking "don't feed the troll" to an extreme)
 * Education on types of rhetorical fallacies
